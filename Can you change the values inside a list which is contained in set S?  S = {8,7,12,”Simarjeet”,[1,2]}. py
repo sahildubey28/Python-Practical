@@ -1,0 +1,6 @@
+S = [8,7,12,"Simarjeet",[1,2]]
+S[4]="Sahil Dubey"
+S[0]=9
+print("Changed list = ",S)
+
+# Output : Changed list =  [9, 7, 12, 'Simarjeet', 'Sahil Dubey']
